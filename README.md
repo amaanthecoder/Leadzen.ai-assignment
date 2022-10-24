@@ -21,3 +21,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 If some port is already running you can choose any other port.
 
+
+To run and check output for problem 1 and problem 3 please navigate to  the respective directory and read Readme file
+
